@@ -25,7 +25,6 @@
         <div id="content" title="Username">
             <h1>Student Registration</h1>
             <h2>This change is from Aishwarya PC</h2>
-
             <br />
             <table align="center">
                 <tr>
